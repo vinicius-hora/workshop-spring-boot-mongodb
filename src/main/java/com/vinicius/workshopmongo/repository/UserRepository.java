@@ -9,6 +9,7 @@ import com.vinicius.workshopmongo.domain.User;
 @Repository
 public interface UserRepository extends MongoRepository<User, String> {
 
+	
 
 
 
